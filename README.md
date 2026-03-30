@@ -16,6 +16,9 @@ Paste an article link, pick a voice, listen. Turns web articles into podcast-qua
 ✏️ **[Quick Sketch](https://github.com/tomenden/quick-sketch)**
 A lightweight drawing app for diagrams, scribbles, and doodles — optimized for quick copy-paste into docs and chats.
 
+🧭 **[env-pilot](https://github.com/tomenden/env-pilot)**
+Interactive TUI for setting up `.env` files from a template. Navigate, edit, and manage env vars without touching a text editor.
+
 🍼 **[Can I Still Eat This?](https://github.com/tomenden/can-i-still-eat-this)**
 AI-powered food safety checker for parents — quick answers about what's safe for babies, toddlers, and during pregnancy.
 

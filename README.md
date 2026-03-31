@@ -16,6 +16,9 @@ Paste an article link, pick a voice, listen. Turns web articles into podcast-qua
 ✏️ **[Quick Sketch](https://github.com/tomenden/quick-sketch)**
 A lightweight drawing app for diagrams, scribbles, and doodles — optimized for quick copy-paste into docs and chats.
 
+🔌 **[port](https://github.com/tomenden/port)**
+See what's running on any port. Interactive TUI to browse, inspect, and kill processes — zero dependencies, single bash script.
+
 🧭 **[env-pilot](https://github.com/tomenden/env-pilot)**
 Interactive TUI for setting up `.env` files from a template. Navigate, edit, and manage env vars without touching a text editor.
 
